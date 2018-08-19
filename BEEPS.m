@@ -62,7 +62,7 @@ for i=1:1:3
      
 end
 
-% Average of the row-?rst and column-?rst separable application of the BEEPS.
+% Average of the row-first and column-first separable application of the BEEPS.
 
 tempimg7=(tempimg1+tempimg2)/2;
 tempimg8=(tempimg3+tempimg4)/2;
