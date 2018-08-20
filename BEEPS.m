@@ -22,8 +22,8 @@ img = imread([PathName FileName]);
 figure,imshow(img);
 img=double(img);
 
-lambda=1.05;
-sigma=14;
+lambda=1.05;  % spatialDecay
+sigma=14;     % photometricStandardDeviation
 
 %  Separated into three channels
 
