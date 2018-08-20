@@ -30,3 +30,8 @@ BEEPS. This ImageJ plugin smoothes an image without altering its edges. The smoo
 ### BEEPS:
 ![image](http://pco31cl5b.bkt.clouddn.com/18-8-19/27753609.jpg)
 
+---
+
+## 操作流程：
+运行主文件 BEEPS.m --> 选取图片（如果找不到目标图片，记得改为所有文件）--> 根据图片效果优化参数
+
