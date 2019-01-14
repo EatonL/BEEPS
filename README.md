@@ -13,7 +13,7 @@ BEEPS. This ImageJ plugin smoothes an image without altering its edges. The smoo
 
 ![image](https://img-blog.csdnimg.cn/20190114175645938.jpg)
 
-![image](https://img-blog.csdnimg.cn/2019011415344381.jpg)
+![image](https://img-blog.csdnimg.cn/20190114191530889.jpg)
 
 其中 x 是图像输入， y 是图像输出。具体论文分析可见拙作：[https://blog.csdn.net/bazhidao0031/article/details/81450815](https://blog.csdn.net/bazhidao0031/article/details/81450815)。
 
